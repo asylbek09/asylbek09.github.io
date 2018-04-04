@@ -11,8 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Hello world! This is my GitHub website!
-## It is still diffucult, but I am learning!
+# Hello world!
+#My name is Asylbek and This is my first GitHub website!
+## It is still difficult, but I am learning!
 ### Hope I will get it early!
 
 - Bulleted
